@@ -1,7 +1,7 @@
 package com.pluralsight.fundamentals.com.pluralsight.fundamentals.repository;
 
-import com.pluralsight.fundamentals.entity.Application;
+import com.pluralsight.fundamentals.entity.Ticket;
 import org.springframework.data.repository.CrudRepository;
 
-public interface TicketRepository extends CrudRepository<Application,  Long> {
+public interface TicketRepository extends CrudRepository<Ticket, Long> {
 }
