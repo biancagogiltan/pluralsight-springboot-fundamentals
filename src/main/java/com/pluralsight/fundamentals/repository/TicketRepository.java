@@ -1,4 +1,4 @@
-package com.pluralsight.fundamentals.com.pluralsight.fundamentals.repository;
+package com.pluralsight.fundamentals.repository;
 
 import com.pluralsight.fundamentals.entity.Ticket;
 import org.springframework.data.repository.CrudRepository;

@@ -1,8 +1,8 @@
-package com.pluralsight.fundamentals.web;
+package com.pluralsight.fundamentals.springmvc.web;
 
-import com.pluralsight.fundamentals.service.ApplicationService;
-import com.pluralsight.fundamentals.service.ReleaseService;
-import com.pluralsight.fundamentals.service.TicketService;
+import com.pluralsight.fundamentals.springmvc.service.ApplicationService;
+import com.pluralsight.fundamentals.springmvc.service.ReleaseService;
+import com.pluralsight.fundamentals.springmvc.service.TicketService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
